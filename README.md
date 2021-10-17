@@ -2,6 +2,6 @@
 Help working at the restaurant when the awful POS crash
 TO LAUNCH THE PROGRAM
 ```
-python main.py
+python restaurant.py
 ```
 
